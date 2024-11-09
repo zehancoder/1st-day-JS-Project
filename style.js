@@ -26,7 +26,7 @@ minusBtn.addEventListener("click", () => {
 
 
 resetBtn.addEventListener('click', () => {
-    input.value = "";
+    input.value = "1";
     increaseCount.innerText = "0";
 })
 
